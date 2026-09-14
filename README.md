@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode2/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
