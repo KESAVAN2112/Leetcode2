@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode2/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KESAVAN2112/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/KESAVAN2112/Leetcode2/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KESAVAN2112/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/KESAVAN2112/Leetcode2/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
