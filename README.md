@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KESAVAN2112/Leetcode2/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/KESAVAN2112/Leetcode2/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
 ## Geometry
