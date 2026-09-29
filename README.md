@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KESAVAN2112/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KESAVAN2112/Leetcode2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KESAVAN2112/Leetcode2/tree/master/0067-add-binary) |
+| [0326-power-of-three](https://github.com/KESAVAN2112/Leetcode2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KESAVAN2112/Leetcode2/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
 ## Geometry
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/KESAVAN2112/Leetcode2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KESAVAN2112/Leetcode2/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
