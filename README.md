@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KESAVAN2112/Leetcode2/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KESAVAN2112/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/KESAVAN2112/Leetcode2/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KESAVAN2112/Leetcode2/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode2/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KESAVAN2112/Leetcode2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KESAVAN2112/Leetcode2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KESAVAN2112/Leetcode2/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
