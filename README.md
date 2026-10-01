@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KESAVAN2112/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/KESAVAN2112/Leetcode2/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KESAVAN2112/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/KESAVAN2112/Leetcode2/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KESAVAN2112/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KESAVAN2112/Leetcode2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KESAVAN2112/Leetcode2/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/KESAVAN2112/Leetcode2/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KESAVAN2112/Leetcode2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KESAVAN2112/Leetcode2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KESAVAN2112/Leetcode2/tree/master/0342-power-of-four) |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KESAVAN2112/Leetcode2/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
