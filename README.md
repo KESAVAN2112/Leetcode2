@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KESAVAN2112/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KESAVAN2112/Leetcode2/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/KESAVAN2112/Leetcode2/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
