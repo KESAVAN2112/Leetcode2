@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KESAVAN2112/Leetcode2/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KESAVAN2112/Leetcode2/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KESAVAN2112/Leetcode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
@@ -146,9 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KESAVAN2112/Leetcode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
