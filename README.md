@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KESAVAN2112/Leetcode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KESAVAN2112/Leetcode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KESAVAN2112/Leetcode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
