@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KESAVAN2112/Leetcode2/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KESAVAN2112/Leetcode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KESAVAN2112/Leetcode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KESAVAN2112/Leetcode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KESAVAN2112/Leetcode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
