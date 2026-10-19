@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KESAVAN2112/Leetcode2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KESAVAN2112/Leetcode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KESAVAN2112/Leetcode2/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KESAVAN2112/Leetcode2/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KESAVAN2112/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/KESAVAN2112/Leetcode2/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
