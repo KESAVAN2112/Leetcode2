@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KESAVAN2112/Leetcode2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KESAVAN2112/Leetcode2/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/KESAVAN2112/Leetcode2/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KESAVAN2112/Leetcode2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/KESAVAN2112/Leetcode2/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/KESAVAN2112/Leetcode2/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KESAVAN2112/Leetcode2/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
