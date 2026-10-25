@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
+| [1254-number-of-closed-islands](https://github.com/KESAVAN2112/Leetcode2/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KESAVAN2112/Leetcode2/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/KESAVAN2112/Leetcode2/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/KESAVAN2112/Leetcode2/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -214,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KESAVAN2112/Leetcode2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/KESAVAN2112/Leetcode2/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/KESAVAN2112/Leetcode2/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/KESAVAN2112/Leetcode2/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
