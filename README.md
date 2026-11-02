@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KESAVAN2112/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KESAVAN2112/Leetcode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KESAVAN2112/Leetcode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/KESAVAN2112/Leetcode2/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/KESAVAN2112/Leetcode2/tree/master/0739-daily-temperatures) |
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KESAVAN2112/Leetcode2/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KESAVAN2112/Leetcode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KESAVAN2112/Leetcode2/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KESAVAN2112/Leetcode2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KESAVAN2112/Leetcode2/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KESAVAN2112/Leetcode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KESAVAN2112/Leetcode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/KESAVAN2112/Leetcode2/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KESAVAN2112/Leetcode2/tree/master/3723-maximize-sum-of-squares-of-digits) |
