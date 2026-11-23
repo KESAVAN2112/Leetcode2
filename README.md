@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/KESAVAN2112/Leetcode2/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/KESAVAN2112/Leetcode2/tree/master/1051-height-checker) |
 | [1254-number-of-closed-islands](https://github.com/KESAVAN2112/Leetcode2/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KESAVAN2112/Leetcode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KESAVAN2112/Leetcode2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KESAVAN2112/Leetcode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KESAVAN2112/Leetcode2/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KESAVAN2112/Leetcode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KESAVAN2112/Leetcode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/KESAVAN2112/Leetcode2/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KESAVAN2112/Leetcode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KESAVAN2112/Leetcode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/KESAVAN2112/Leetcode2/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KESAVAN2112/Leetcode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -300,5 +302,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/KESAVAN2112/Leetcode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KESAVAN2112/Leetcode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/KESAVAN2112/Leetcode2/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/KESAVAN2112/Leetcode2/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
